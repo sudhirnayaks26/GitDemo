@@ -22,4 +22,10 @@ public class E1Test {
 	public void newBranch1() {
 		System.out.println("Demo guy added new method in different branch1");
 	}
+	
+	public void newBranch4() {
+		System.out.println("Stuff guy added new method in different branch1");
+	}
+	
+	
 }
