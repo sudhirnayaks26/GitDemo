@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="51" started-at="2020-10-19T18:36:08 IST" finished-at="2020-10-19T18:36:08 IST">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="51" started-at="2020-10-19T18:36:08 IST" finished-at="2020-10-19T18:36:08 IST">
+      <class name="udemy.Mavenjava.E3Test">
+        <test-method status="PASS" signature="m5()[pri:0, instance:udemy.Mavenjava.E3Test@42e26948]" name="m5" duration-ms="1" started-at="2020-10-19T18:36:08 IST" finished-at="2020-10-19T18:36:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m5 -->
+        <test-method status="PASS" signature="m6()[pri:0, instance:udemy.Mavenjava.E3Test@42e26948]" name="m6" duration-ms="0" started-at="2020-10-19T18:36:08 IST" finished-at="2020-10-19T18:36:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m6 -->
+      </class> <!-- udemy.Mavenjava.E3Test -->
+      <class name="udemy.Mavenjava.E2Test">
+        <test-method status="PASS" signature="m3()[pri:0, instance:udemy.Mavenjava.E2Test@1794d431]" name="m3" duration-ms="0" started-at="2020-10-19T18:36:08 IST" finished-at="2020-10-19T18:36:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m3 -->
+        <test-method status="PASS" signature="m4()[pri:0, instance:udemy.Mavenjava.E2Test@1794d431]" name="m4" duration-ms="0" started-at="2020-10-19T18:36:08 IST" finished-at="2020-10-19T18:36:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m4 -->
+      </class> <!-- udemy.Mavenjava.E2Test -->
+      <class name="udemy.Mavenjava.E1Test">
+        <test-method status="PASS" signature="m1()[pri:0, instance:udemy.Mavenjava.E1Test@39c0f4a]" name="m1" duration-ms="2" started-at="2020-10-19T18:36:08 IST" finished-at="2020-10-19T18:36:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+        <test-method status="PASS" signature="m2()[pri:0, instance:udemy.Mavenjava.E1Test@39c0f4a]" name="m2" duration-ms="1" started-at="2020-10-19T18:36:08 IST" finished-at="2020-10-19T18:36:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m2 -->
+      </class> <!-- udemy.Mavenjava.E1Test -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
