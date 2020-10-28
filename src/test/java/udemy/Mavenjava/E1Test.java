@@ -15,6 +15,11 @@ public class E1Test {
 	@Test
 	public void m2() {
 		System.out.println("E1 - m2");
+		System.out.println("Demo guy new branch");
 		
+	}
+	
+	public void newBranch1() {
+		System.out.println("Demo guy added new method in different branch1");
 	}
 }

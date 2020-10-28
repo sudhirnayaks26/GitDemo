@@ -15,6 +15,11 @@ public class E3Test {
 	@Test
 	public void m6() {
 		System.out.println("E3 - m6");
+		System.out.println("Demo guy new branch");
 		
+	}
+	
+	public void newBranch3() {
+		System.out.println("Demo guy added new method in different branch3");
 	}
 }
