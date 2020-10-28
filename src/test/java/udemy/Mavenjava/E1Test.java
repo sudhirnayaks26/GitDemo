@@ -7,6 +7,7 @@ public class E1Test {
 	@Test
 	public void m1() {
 		System.out.println("E1 - m1");
+		System.out.println("Added for Git Demo");
 		
 	}
 	
